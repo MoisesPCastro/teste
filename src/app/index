@@ -3,3 +3,4 @@ let moi;
 console.log('moi', moi);
 
 let soma = 1
+let add;
