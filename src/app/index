@@ -1,0 +1,3 @@
+let moi;
+
+console.log('moi', moi);
