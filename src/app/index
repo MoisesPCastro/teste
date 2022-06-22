@@ -1,3 +1,5 @@
 let moi;
 
 console.log('moi', moi);
+
+let soma = 1
